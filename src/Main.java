@@ -7,7 +7,7 @@ public class Main {
         
         // TODO: Alumno C debe inicializar aquí el inventario
 
-        // TODO: Alumno B debe registrar una reparación de prueba
+        // TODO: Alumno B debe registrar una repar ación de prueba
         
         System.out.println("Sistema detenido.");
     }
