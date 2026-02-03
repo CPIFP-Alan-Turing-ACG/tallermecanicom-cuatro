@@ -1,6 +1,8 @@
 public class GestorReparaciones {
+ 
     public void procesarReparacion() {
-        // TODO: Implementar lógica (Alumno B)
-        System.out.println("Función no implementada aún");
+       System.out.println("Reanult 2004");
+       System.out.println("Se realizo un cambio de bateria Juan Perez Ortiz");
     }
-}
+ }
+ 
